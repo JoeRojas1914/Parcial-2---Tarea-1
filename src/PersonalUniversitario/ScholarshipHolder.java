@@ -1,3 +1,5 @@
+package PersonalUniversitario;
+
 public class ScholarshipHolder extends Employee{
     String code;
 
